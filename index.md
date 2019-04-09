@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Welcome to Psycho Modeling Club sigte
 
-You can use the [editor on GitHub](https://github.com/kosugitti/PsychoModelingClub/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+こちらは行動計量学会・心理モデリング部会のサイトです。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 研究計画
 
-### Markdown
+ベイジアンモデリングは様々な場面で活用されるようになってきたが，本研究部会では特に心理学領域における活用を目的としている。
+そのための活動内容として，メンバー相互の情報交換を継続的に行うことはもちろん，心理学に関する研究例をモデリングの観点から再構築，再検証したり，モデルドリブンの研究アイデアを実践すること，さらにベイズ推定を実際に行う際のノウハウの蓄積を目指す。またこれらの研究や知識・情報は常に開かれた姿勢で行われることが望ましいと考えており，本学会の大会はもちろん，心理学に関する他学会でも積極的に成果報告を行うことで，研究会や学会の活性化を目指す。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 活動予定
 
-```markdown
-Syntax highlighted code block
+日本行動計量学会において，毎年特別セッションを申請し成果を報告する。
+加えて，毎年地方においてメンバーの相互交流や他分野の講師を招いての合宿型研修会を開催する。
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## 部会構成員
 
-**Bold** and _Italic_ and `Code` text
++ 代表；小杉考司(専修大学人間科学部)
++ 副代表；武藤拓之(立命館大学・学術振興会特別研究員PD)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kosugitti/PsychoModelingClub/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
++ 平川真/広島大学大学院教育学研究科・情報科学部
++ 北條大樹/東京大学教育学研究科
++ 紀ノ定保礼/静岡理工科大学情報学部
++ 国里愛彦/専修大学人間科学部
++ 難波修史/広島大学大学院教育学研究科
++ 岡田謙介/東京大学
++ 清水裕士/関西学院大学社会学部
++ 杣取恵太/専修大学大学院文学研究科
++ 竹林由武/福島県立医科大学医学部
++ 徳岡大/高松大学発達科学部
++ 山根 嵩史/川崎医療福祉大学医療福祉学部
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+このサイトに関するお問い合わせは代表者・小杉(kosugi_at_psy.senshu-u.ac.jp)か武藤(h.muto.ou_at_gmail.com)までご連絡ください(_at_ を @ にかえてメールアドレスにしてください）。
