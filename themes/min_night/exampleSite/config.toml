@@ -5,6 +5,7 @@ description = "An easy reading Hugo blog with night-mode."
 theme = "min_night"
 disqusShortname = ""
 googleAnalytics = ""
+publishDir = "docs"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [permalinks]

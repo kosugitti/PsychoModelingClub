@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1077425707",
+    "hash" : "0",
     "id" : "D2C02F86",
-    "lastKnownWriteTime" : 1567930583,
-    "last_content_update" : 1567930583790,
+    "lastKnownWriteTime" : 1567932861,
+    "last_content_update" : 1567932861660,
     "path" : "~/Dropbox/Rtest/PsychoModelingClub/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "4,19",
-        "scrollLine" : "0"
+        "cursorPosition" : "9,0",
+        "scrollLine" : "1"
     },
     "read_only" : false,
     "read_only_alternatives" : [

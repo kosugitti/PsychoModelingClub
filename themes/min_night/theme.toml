@@ -5,6 +5,7 @@ description = "An easy on the eyes blog theme with night-mode."
 homepage = "http://github.com/nathancday/min_night"
 tags = ["blog", "night-mode"]
 features = ["twitter-cards"]
+publishDir = "docs"
 min_version = "0.35"
 
 [author]
