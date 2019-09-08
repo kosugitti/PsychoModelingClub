@@ -1,0 +1,6 @@
+library(blogdown)
+
+blogdown::new_site(theme="nathancday/min_night")
+
+build_site()
+serve_site()
