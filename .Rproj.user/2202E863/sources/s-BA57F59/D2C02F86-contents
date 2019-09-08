@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://kosugitti.github.io/PsychoModelingClub/"
 languageCode = "ja-JP"
 title = "psy_modeling"
 description = "心理モデリング部会"

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on psy_modeling</title>
-    <link>/post/</link>
+    <link>/PsychoModelingClub/post/</link>
     <description>Recent content in Posts on psy_modeling</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/PsychoModelingClub/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AI2019共催研究会</title>
-      <link>/2019/09/10/ai2019%E5%85%B1%E5%82%AC%E7%A0%94%E7%A9%B6%E4%BC%9A/</link>
+      <link>/PsychoModelingClub/2019/09/10/ai2019%E5%85%B1%E5%82%AC%E7%A0%94%E7%A9%B6%E4%BC%9A/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/09/10/ai2019%E5%85%B1%E5%82%AC%E7%A0%94%E7%A9%B6%E4%BC%9A/</guid>
+      <guid>/PsychoModelingClub/2019/09/10/ai2019%E5%85%B1%E5%82%AC%E7%A0%94%E7%A9%B6%E4%BC%9A/</guid>
       <description> 「ベイズモデリングと心理学」 共催：人工知能学会合同研究会(人工知能基本問題研究会)　 日時：2019年11月23日 場所：慶應義塾大学矢上キャンパス (横浜市港北区) 代表者：小杉考司(専修大学人間科学部) 概要  確率的プログラミング言語の活用によって，心的機構をモデリングによって表現し積極的に解釈しようという試みが広まってきました。本シンポジウムでは，心理学の様々な領域におけるベイズモデリングの活用例を紹介し，心と行動データとモデルがどのように織り込まれていくのかについてご紹介するとともに，広く意見交流の機会としたいと考えています。  話題提供者/演題  交通行動のモデリング
 紀ノ定保礼（静岡理工科大学)
  認知心理学と統計モデリング行動データの背後にある情報処理過程を表現する
@@ -34,10 +34,10 @@
     
     <item>
       <title>BMS47特別セッション</title>
-      <link>/2019/09/10/bms47%E7%89%B9%E5%88%A5%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+      <link>/PsychoModelingClub/2019/09/10/bms47%E7%89%B9%E5%88%A5%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/09/10/bms47%E7%89%B9%E5%88%A5%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
+      <guid>/PsychoModelingClub/2019/09/10/bms47%E7%89%B9%E5%88%A5%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
       <description> 日本行動計量学会47回大会(大阪大学)　 特別セッション「心理学におけるモデリングアプローチ」 オーガナイザー,司会者:小杉考司(専修大学人間科学部)
  潜在的自尊心の統計モデリング:diffusionIATを用いた推定Web実験による文化比較
 清水裕士(関西学院大学社会学部)，三浦麻子(大阪大学大学院人間科学研究科)，小林哲郎(香港城市大学)
