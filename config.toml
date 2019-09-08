@@ -1,6 +1,6 @@
 baseURL = "https://kosugitti.github.io/PsychoModelingClub/"
 languageCode = "ja-JP"
-title = "psy_modeling"
+title = "modeling_psy"
 description = "心理モデリング部会"
 theme = "min_night"
 disqusShortname = ""
