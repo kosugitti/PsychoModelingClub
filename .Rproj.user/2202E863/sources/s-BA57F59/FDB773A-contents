@@ -21,23 +21,23 @@ date: 2019-09-10
 ### 部会構成員
 
 
-+ 代表；小杉 考司(専修大学人間科学部)|
-+ 副代表；武藤 拓之(立命館大学OIC総合研究機構・日本学術振興会特別研究員PD)
++ 代表；[小杉 考司(専修大学人間科学部)](https://kosugitti.github.io/kosugitti10/)
++ 副代表；[武藤 拓之(立命館大学OIC総合研究機構・日本学術振興会特別研究員PD)](http://mutopsy.net/)
 
-+ 平川 真 / 広島大学大学院教育学研究科・情報科学部
-+ 北條 大樹 / 東京大学大学院教育学研究科
-+ 紀ノ定 保礼 / 静岡理工科大学情報学部
-+ 国里 愛彦 / 専修大学人間科学部
-+ 難波 修史 / 広島大学大学院教育学研究科
-+ 岡田 謙介 / 東京大学大学院教育学研究科
-+ 清水 裕士 / 関西学院大学社会学部
-+ 杣取 恵太 / 専修大学大学院文学研究科
-+ 竹林 由武 / 福島県立医科大学医学部
-+ 徳岡 大 / 高松大学発達科学部
-+ 上島 淳史 / 東京大学大学院人文社会系研究科
-+ 山根 嵩史 / 川崎医療福祉大学医療福祉学部
-+ 荘島　宏ニ郎 / 大学入試センター
-+ 小野　修一 / 
++ [平川 真(広島大学大学院教育学研究科・情報科学部)](http://mizunasu.net/)
++ [北條 大樹(東京大学大学院教育学研究科)](https://dastatis.github.io/)
++ [紀ノ定 保礼(静岡理工科大学情報学部)](https://sites.google.com/site/yasknsd/)
++ [国里 愛彦(専修大学人間科学部)](https://kunisatolab.github.io/main/index.html)
++ [難波 修史(広島大学大学院教育学研究科)](https://sites.google.com/view/nambaikin/%E3%83%9B%E3%83%BC%E3%83%A0)
++ [岡田 謙介(東京大学大学院教育学研究科)](https://sites.google.com/g.ecc.u-tokyo.ac.jp/ken/home)
++ [清水 裕士(関西学院大学社会学部)](http://norimune.net/)
++ [杣取 恵太(専修大学大学院文学研究科)](https://ksomatori.github.io/homepage/index.html)
++ [竹林 由武(福島県立医科大学医学部)](https://ytake2.github.io/Rsite/_site/index.html)
++ [徳岡 大(高松大学発達科学部)](http://mtokuoka.net/)
++ [上島 淳史(東京大学大学院人文社会系研究科)](https://ueshima73.github.io/)
++ [山根 嵩史(川崎医療福祉大学医療福祉学部)](http://tyamane1969.net/)
++ [荘島 宏ニ郎(大学入試センター)](http://www.rd.dnc.ac.jp/~shojima/)
++ 小野 修一
 
 ---
 
